@@ -1,4 +1,6 @@
 # Customer Intelligence & Revenue Analysis
+🚀 End-to-end data pipeline: CSV → SQLite → SQL → Python → Reports
+
 
 ## 📊 Project Overview
 
@@ -8,6 +10,16 @@ This project analyzes customer data and revenue to generate business insights:
 * Revenue share
 * Monthly revenue trends
 * Growth percentage (MoM)
+
+## 💡 Business Value
+
+This analysis can help:
+
+* Identify top-performing customers
+* Detect revenue drops early
+* Support business decision-making
+* Understand customer contribution by city
+
 
 ## ⚙️ Tech Stack
 
